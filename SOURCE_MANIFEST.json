@@ -1,0 +1,512 @@
+[
+  {
+    "source": "HW\\hw1\\Assignment 1 (14).pdf",
+    "published": "homework/hw-01/statement.pdf",
+    "sha256": "c2b5708f76fd000db639fe5e245fb992481c3105d568adce0c52089a998a3005"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\6.1.jpg",
+    "published": "homework/hw-01/submission/6.1.jpg",
+    "sha256": "72d1efc038f622bd381afd212f86adc2e66d5fdffa8b56705773b7158763566a"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\6.2.jpg",
+    "published": "homework/hw-01/submission/6.2.jpg",
+    "sha256": "8362ba398f8734c4b439a6e0e929bfa069bd6021b56f64c5b57fbc33cf6dbc4d"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\6and8mlx.mlx",
+    "published": "homework/hw-01/submission/6and8mlx.mlx",
+    "sha256": "f246fa076b6fe09c57cf48abbe494b7327d3fdf603a29492635199d334992d02"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\LCS_HW1_402101339.pdf",
+    "published": "homework/hw-01/submission/LCS_HW1_402101339.pdf",
+    "sha256": "4b1f3836595af43752013cdb00318399c95f8a7565d02cad3e460264cb51f35d"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\LCS_HW1simulink_402101339.pdf",
+    "published": "homework/hw-01/submission/LCS_HW1simulink_402101339.pdf",
+    "sha256": "e9e80c0a157a729ecfd4ae20ae531baa0cb42f2a15235687e0fe8a7740c27076"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\question6.m",
+    "published": "homework/hw-01/submission/question6.m",
+    "sha256": "7b8b973bb0520dfa8c4e6e83232c0e34836dbd206ecc9d612011f5efe3ec4778"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\question8 (2).m",
+    "published": "homework/hw-01/submission/question8 (2).m",
+    "sha256": "7b8b973bb0520dfa8c4e6e83232c0e34836dbd206ecc9d612011f5efe3ec4778"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\simulink_files\\question7.slx",
+    "published": "homework/hw-01/submission/simulink_files/question7.slx",
+    "sha256": "8e188893931130006ff2dcc039096b5774806a28f2d62fe911940be8ed213e72"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\simulink_files\\question9_sin.slx",
+    "published": "homework/hw-01/submission/simulink_files/question9_sin.slx",
+    "sha256": "417ebab24a0e72ac0582c5a6528bc771b0f430fe7b8b8b01309c187caf95596a"
+  },
+  {
+    "source": "HW\\hw1\\my_answer\\simulink_files\\question9_step.slx",
+    "published": "homework/hw-01/submission/simulink_files/question9_step.slx",
+    "sha256": "4ef4002e10b1efbf30ddf7a9a5db7bd6c2e9c2d4893b985d714bdb42bdbac59f"
+  },
+  {
+    "source": "HW\\hw2\\Assignment 2 (3).pdf",
+    "published": "homework/hw-02/statement.pdf",
+    "sha256": "be14db49d75daf96fd7aa309571197e90b2f9fa76b5161cf3c5c23042775ffdc"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\10_TS0.8.png",
+    "published": "homework/hw-02/submission/figures/10_TS0.8.png",
+    "sha256": "6fbbdf995e4375f8218a1ac1cbb907089e98d0ab0d06cc0304953f8d5cd6c3aa"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\10_TS8.png",
+    "published": "homework/hw-02/submission/figures/10_TS8.png",
+    "sha256": "c59c46802ec6898db9ec224dcbc38befb2c6a4d219bcf61129aa7ea782c7d0ca"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\8_scope.png",
+    "published": "homework/hw-02/submission/figures/8_scope.png",
+    "sha256": "bacde7d48498403a841916d1d8214de221acf2a59f5d2edbd58fd80e3a6f022a"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\8_scope_100.png",
+    "published": "homework/hw-02/submission/figures/8_scope_100.png",
+    "sha256": "4cf7379933ed0f68b15dd1fa9904300ae3169809621ec6c9e6f46587ee8bb531"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\circuit.png",
+    "published": "homework/hw-02/submission/figures/circuit.png",
+    "sha256": "d8f1c23c7298fccd086ef494bc0ec2fe769f6ecfd6125780a4f840b83495266e"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\ess.png",
+    "published": "homework/hw-02/submission/figures/ess.png",
+    "sha256": "e58f9bf77d32c13bd6b729ceb01b35ed9dbac5dcfeb92227ad7c3cab929fca93"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\ess_kp.png",
+    "published": "homework/hw-02/submission/figures/ess_kp.png",
+    "sha256": "8cffa85d0035ddd9b22ab6173c74f2a3c64e11a25664b11b6b8fa68638116766"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\ess_m_bigger.png",
+    "published": "homework/hw-02/submission/figures/ess_m_bigger.png",
+    "sha256": "bfac98c5d8d3c34d83f08f35b64462b5992611c495a7a2915fba6a22506a76a0"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\HW2_question2_3.jpg",
+    "published": "homework/hw-02/submission/figures/HW2_question2_3.jpg",
+    "sha256": "4ba25f37ac9c6d5cf5d5361e15225774421bf80d5a6fb1b9726c3477778f8c35"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\figures\\ode1_setting.png",
+    "published": "homework/hw-02/submission/figures/ode1_setting.png",
+    "sha256": "f45bd3b87c86c91a084997f6087b83b23caff8e5703be69d3f592270218cf433"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\HW2_question2_3.m",
+    "published": "homework/hw-02/submission/HW2_question2_3.m",
+    "sha256": "a4577a9c6d5d70beecd3ff36a92ac121a7904eb407e13157c349b61e9134760f"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\HW2_question6.m",
+    "published": "homework/hw-02/submission/HW2_question6.m",
+    "sha256": "d6050a0a5663eced85fa14e28ae43d0ca3045693308d9bc4e1390fdf13c03d7c"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\LCS_HW2_402101339.pdf",
+    "published": "homework/hw-02/submission/LCS_HW2_402101339.pdf",
+    "sha256": "cc4052de309440eb41d759b5dfcd8c85dd8f8dcb9d22dc14c3db8d4d82485162"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\LCS_HW2_Matlab_402101339.pdf",
+    "published": "homework/hw-02/submission/LCS_HW2_Matlab_402101339.pdf",
+    "sha256": "1390f36be4add92da9913dde8462810dd44fea2c4789a81de8033cb38863b302"
+  },
+  {
+    "source": "HW\\hw2\\my_answer\\question7.slx",
+    "published": "homework/hw-02/submission/question7.slx",
+    "sha256": "a16faa598d92c1b34816648ee9669ee90b30fe99e6c862d38b46d0b0a6596c2c"
+  },
+  {
+    "source": "HW\\hw3\\Assignment 3 (8).pdf",
+    "published": "homework/hw-03/statement.pdf",
+    "sha256": "85a51b2a83790ebdb47da93d439ad56e3fbba7fc158065af379ee3a1071ac872"
+  },
+  {
+    "source": "HW\\hw3\\Data (1).zip",
+    "published": "homework/hw-03/Data (1).zip",
+    "sha256": "fd37a57a6a59c1533e23f553d2c69d726d54a94d96ff26d6cb0997ff914fdab2"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\codes\\question3\\HW3_question3_c.m",
+    "published": "homework/hw-03/submission/HW3_matlab/codes/question3/HW3_question3_c.m",
+    "sha256": "5222d0edcfaece969fd40e840d6b741b6a8a3030ef1d1fcaaffcd257c5c594eb"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\codes\\question3\\HW3_question5_a.m",
+    "published": "homework/hw-03/submission/HW3_matlab/codes/question3/HW3_question5_a.m",
+    "sha256": "d9da0b06152acd6da5b581b283f6a957505af922ffeab0a67203aa451c82a167"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\codes\\question5\\a.m",
+    "published": "homework/hw-03/submission/HW3_matlab/codes/question5/a.m",
+    "sha256": "07534690d9352408c7f3ff40d80f6da7adbc9bfb647be0642b009a249308c970"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\codes\\question5\\c_true.m",
+    "published": "homework/hw-03/submission/HW3_matlab/codes/question5/c_true.m",
+    "sha256": "47e485dd5c8ae50ab03903bf1e69279d5f59319729235f1e6f67ebff607f7dfb"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\codes\\question5\\d.m",
+    "published": "homework/hw-03/submission/HW3_matlab/codes/question5/d.m",
+    "sha256": "250219485e4c88268a637e16f8573ecbb9b84546b05ce55309510dabe80d339f"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\codes\\question5\\e.m",
+    "published": "homework/hw-03/submission/HW3_matlab/codes/question5/e.m",
+    "sha256": "1f09d0c9de965de0d88973a1d419357aca44cef73f17372a3f739ccae5d285d3"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\figures_images\\question3\\HW3_question3_c.jpg",
+    "published": "homework/hw-03/submission/HW3_matlab/figures_images/question3/HW3_question3_c.jpg",
+    "sha256": "d6e26dcf5bc5bf40919912b4cd782235bfa7345aca5830a49076cd85a44dee96"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\figures_images\\question5\\a.jpg",
+    "published": "homework/hw-03/submission/HW3_matlab/figures_images/question5/a.jpg",
+    "sha256": "c682c73654d2fd6f47f6ae9011cbc5ca4d5ce115b090434df1ad0fd99a0da682"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\figures_images\\question5\\a_est.png",
+    "published": "homework/hw-03/submission/HW3_matlab/figures_images/question5/a_est.png",
+    "sha256": "322e202dee35c318fcc0c893702d911a37462e5a728039bfc3f1a7414ec48577"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\figures_images\\question5\\c_est.png",
+    "published": "homework/hw-03/submission/HW3_matlab/figures_images/question5/c_est.png",
+    "sha256": "ebd30842967aa77ff2191e096ee52ff5073a0d402aeea5400f24ae8d49ea8fa3"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\figures_images\\question5\\c_response.jpg",
+    "published": "homework/hw-03/submission/HW3_matlab/figures_images/question5/c_response.jpg",
+    "sha256": "d923c70c4036a6205ec9add60a3fdf99d1df13f17efc6cd37f5bb786e34f68e1"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\figures_images\\question5\\d.jpg",
+    "published": "homework/hw-03/submission/HW3_matlab/figures_images/question5/d.jpg",
+    "sha256": "d93e9178d2ef1a3c25a590f7d00e2bcec8c7898c0a7b5b0f31cb767c63b1b9ba"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\figures_images\\question5\\d_est.png",
+    "published": "homework/hw-03/submission/HW3_matlab/figures_images/question5/d_est.png",
+    "sha256": "a9be26dd9a7dbf470d5ba2f6292af7c494be5a88a1720581e902591bfe690f81"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\HW3_matlab\\figures_images\\question5\\e_est.png",
+    "published": "homework/hw-03/submission/HW3_matlab/figures_images/question5/e_est.png",
+    "sha256": "edf773180303d453171e6d3c3eaef5aefb74655988291869b156e7d79cdeed11"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\LCS_HW3_402101339.pdf",
+    "published": "homework/hw-03/submission/LCS_HW3_402101339.pdf",
+    "sha256": "22b1e6ef50cf8ad09e6a44eb0547864f13437f5a98702b340c535c62f678a0d6"
+  },
+  {
+    "source": "HW\\hw3\\my_answer\\LCS_HW3_Matlab_402101339.pdf",
+    "published": "homework/hw-03/submission/LCS_HW3_Matlab_402101339.pdf",
+    "sha256": "28925e6c0edf6de9a554be2cf96bf6f6c050a14b45d46f7ebee8ca552865a5a3"
+  },
+  {
+    "source": "HW\\hw4\\Assignment 4 (8).pdf",
+    "published": "homework/hw-04/statement.pdf",
+    "sha256": "70f088f9c88b1bc0aff46d6aca17da429ee6f990710fca96b006ccdc3f1f2a83"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_402101339.pdf",
+    "published": "homework/hw-04/submission/LCS_HW4_402101339.pdf",
+    "sha256": "852f1ffb44ffbf2f1d80b96be074a156f148ac205c5ee31a954f6956c34e94e3"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\codes\\HW4_question8_a.m",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/codes/HW4_question8_a.m",
+    "sha256": "3cbae96c387b946ca9a0315efc25cf0c30535b674b93132f5d59a3cadf72fae8"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\codes\\HW4_question8_b.m",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/codes/HW4_question8_b.m",
+    "sha256": "9bad7137b8e1f38d08bf913346f347760794eae1d7a912e987cd01e387da2de4"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\codes\\HW4_question8_c.m",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/codes/HW4_question8_c.m",
+    "sha256": "63b5a1b87b750f95669ace7cdc95c8c709d87357298fea134f057e2787097b6b"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\figs\\a\\8_a_candidates.png",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/figs/a/8_a_candidates.png",
+    "sha256": "922d8f55b9e597759a6be90b50c157c52320002499a2bccf44ff5ee1bfa61a5a"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\figs\\a\\8_a_G1_candidates.png",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/figs/a/8_a_G1_candidates.png",
+    "sha256": "9ea033a401ebd5f97d3f1b177d2193407dab04eb8bfa7e501e4968fe1d0dafb3"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\figs\\a\\8_a_G1_RL.jpg",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/figs/a/8_a_G1_RL.jpg",
+    "sha256": "6dad6ef9d438b1aeec31a8fee2b17f2a49640732d8cd6aaf63dd2b44ec0c94b4"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\figs\\a\\8_a_G2_RL.jpg",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/figs/a/8_a_G2_RL.jpg",
+    "sha256": "31518cde8aaaa646b01693519be188755d1ba112e53f96f65d033d1236827d2b"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\figs\\c_example.png",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/figs/c_example.png",
+    "sha256": "8bb57a48ec42c1ecca26d2e12c6e1ca60fc22c261d6e0cc4d8fef040a446134a"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339\\figs\\question8_b_example.jpg",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339/figs/question8_b_example.jpg",
+    "sha256": "4f78baa1b4c6d8dd19bc9bb5ed5fd88dcc12956a60302839c0dca90c3618c360"
+  },
+  {
+    "source": "HW\\hw4\\my_asnwer\\LCS_HW4_matlab_402101339.pdf",
+    "published": "homework/hw-04/submission/LCS_HW4_matlab_402101339.pdf",
+    "sha256": "16fca39f649cec0dd6513c7c54e13b56f73385f37b3735ed9c4bbb6ebe97d553"
+  },
+  {
+    "source": "HW\\hw5\\Assignment 5 (4).pdf",
+    "published": "homework/hw-05/statement.pdf",
+    "sha256": "a4c8f0c1763371b4445555d614e66776adbaa141a32d8c4d2d4dda6daf31e08d"
+  },
+  {
+    "source": "HW\\hw5\\my_answer\\LCS_HW5_402101339.PDF",
+    "published": "homework/hw-05/submission/LCS_HW5_402101339.PDF",
+    "sha256": "48b313e3b659367dac7ef2887e66a29431c2719361341c87c1d68fa08c684fe2"
+  },
+  {
+    "source": "HW\\hw5\\my_answer\\LCS_HW5_402101339_part2.PDF",
+    "published": "homework/hw-05/submission/LCS_HW5_402101339_part2.PDF",
+    "sha256": "4e9ae507daf0f304c3700d934b37070e3aa8eddb0d0bd1f2a2e1bfed823bac62"
+  },
+  {
+    "source": "HW\\hw6\\Assignment 6 (5).pdf",
+    "published": "homework/hw-06/statement.pdf",
+    "sha256": "483ea6878c0b0cacf71317027a09d1888d0ad87574af57c617dc1cce23cd2cd4"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_402101339_Q1to3.PDF",
+    "published": "homework/hw-06/submission/LCS_HW6_402101339_Q1to3.PDF",
+    "sha256": "f6e90884abb63c4be6901c2d1067b1756b76585aa84f3d7cd1273c6ee165a1a3"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_402101339_Q4to8.pdf",
+    "published": "homework/hw-06/submission/LCS_HW6_402101339_Q4to8.pdf",
+    "sha256": "a7d97a2dc54adf0e6aab3f29e1dec09e480deda15f3b545a4aa6838d5776fe2c"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q4\\Q4.m",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q4/Q4.m",
+    "sha256": "4115a0931b19af68b7252f5b39d810cd7a30908e1eb6a8a5efab73c06938b42e"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q4\\Q4_bode.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q4/Q4_bode.jpg",
+    "sha256": "db92f21b34acba3d548bc2c62976e04ca1e2413a58bad640f541c03c211f8132"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q4\\Q4_nyquist.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q4/Q4_nyquist.jpg",
+    "sha256": "23e287aee7cd855da539454155df0da507c3ad2bf02f7316871c1d09f7c18ec2"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q5\\Q5.m",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q5/Q5.m",
+    "sha256": "759ba958582b241508cbed17e25bc985afe968ff3fd27a5c3280d08a12608cb7"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q5\\Q5_a.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q5/Q5_a.jpg",
+    "sha256": "ea8340b521c4be9114e3d30c6118fe266a939d9ecba250b0d651df43a85e536b"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q5\\Q5_b.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q5/Q5_b.jpg",
+    "sha256": "37a69daf09d2f4055d3394e9d0b3b411ef1cb44167c0c8d062f07eee41ada847"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q5\\Q5_d.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q5/Q5_d.jpg",
+    "sha256": "94186daf00e7ba8f5ceca0b5bf4bc6801f09c1456f631a7d643cb92e7196fa73"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q6\\g.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q6/g.jpg",
+    "sha256": "cfdb1b48474f0efad68616c31af5b57355c6716bae9ae3bee90935535dd7acac"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q6\\nichols.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q6/nichols.jpg",
+    "sha256": "eb12f664527a676ffdc12f6d1085b3ae4544ed5f44652b2fe4bdd55b527c0d7e"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q6\\Q6.m",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q6/Q6.m",
+    "sha256": "5c6e118de44cea556adc18d45d3a76cb0f0a820dc721fd2df07468f575bcc374"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q6\\step_responsek=6.23.ijpg.fig",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q6/step_responsek=6.23.ijpg.fig",
+    "sha256": "1fcf59bcd8c0c31e82d7ad33ed50bf206ebc4a0b9153e56f8ecbacfe27c5b8dc"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q7\\7b.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q7/7b.jpg",
+    "sha256": "734d8a4fd8d5dc0a6c9ce3726d3a7188827cb9c6b19dde0c7a0e351733c1b36f"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q7\\7c.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q7/7c.jpg",
+    "sha256": "e7eb508004b8a3546019364c6f62edd7d2340d78ce73cae7829902027ef2c6a8"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q7\\7d.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q7/7d.jpg",
+    "sha256": "49378b63e01c3a2db11a5255193d808be8262e5a727e864c7f6df5e5ca6326dd"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q7\\7f.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q7/7f.jpg",
+    "sha256": "efbe98ec084a55433219efada0b5f72723144c53d6a77edf100edd314928c2d0"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q7\\Q7.m",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q7/Q7.m",
+    "sha256": "1f17792973646dafcbccd9667825066ad04f4221f6422f06abb1844f3adc06ed"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q8\\8c+d.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q8/8c+d.jpg",
+    "sha256": "3a36537285cdc3eb67064565731656e338d2c97f1e5d9e7e7bd20bb7805d199b"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q8\\8f.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q8/8f.jpg",
+    "sha256": "f6cabe31d12040e3d701e494467af1720b149596174582c2f136137279506d20"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q8\\8g.jpg",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q8/8g.jpg",
+    "sha256": "f2951f0e5d43cd244120427875d7980b3e866ac10d14f7ca3b75bcc587b6b7a6"
+  },
+  {
+    "source": "HW\\hw6\\my_answer\\LCS_HW6_Matlab_402101339\\Q8\\Q8.m",
+    "published": "homework/hw-06/submission/LCS_HW6_Matlab_402101339/Q8/Q8.m",
+    "sha256": "059583d6717b2aa384257da23d485b6f93ecc6fcc36aa1a1dd19ea99321e99df"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\گزارش تئوری.pdf",
+    "published": "projects/quarter-car-suspension/report.pdf",
+    "sha256": "01f69995e762fea4d0d4b5a3838375af93c9742025cb49b67bf764b67db29df4"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\matlabs\\Q2.m",
+    "published": "projects/quarter-car-suspension/matlab/Q2.m",
+    "sha256": "97173021be15997d60fe2f71fe7ceb61d5ed94b2b69a21e7783273fbf421326c"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\matlabs\\Q3b.m",
+    "published": "projects/quarter-car-suspension/matlab/Q3b.m",
+    "sha256": "8e0f87ab0b51492b57e4b029f21d5ead28659251676ce8a29d28839d24330b3c"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\matlabs\\Q3c.m",
+    "published": "projects/quarter-car-suspension/matlab/Q3c.m",
+    "sha256": "f439e3bafe87d04f0fe2a2909f7524e3b85b43fc276758ea1c7af4a86a7bcf73"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\matlabs\\Q3d.m",
+    "published": "projects/quarter-car-suspension/matlab/Q3d.m",
+    "sha256": "dd8fdf060c468cb3c2153ca283f31e5390524d7daa7b7f8b88c4e572d289be0a"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\matlabs\\Q4.m",
+    "published": "projects/quarter-car-suspension/matlab/Q4.m",
+    "sha256": "dd734e0e934665a4372dcf7969ad56753636ad10b208689cd23862356d954c9d"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\matlabs\\Q5a.m",
+    "published": "projects/quarter-car-suspension/matlab/Q5a.m",
+    "sha256": "5ab5913cb2b2fc3e8518afd142b7558a45b7e5747b7143b12cc84f2e62809363"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\matlabs\\Q5b.m",
+    "published": "projects/quarter-car-suspension/matlab/Q5b.m",
+    "sha256": "91c92a0a54c0f3659c5a8d98ff2e38b1aeb028bbdc1fe48768c7cc48f99ddb9a"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\matlabs\\Q5c.m",
+    "published": "projects/quarter-car-suspension/matlab/Q5c.m",
+    "sha256": "ca75f9ae0d3b5b706636ee4375c11023bf15060918be29342839102818963c07"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q2-polr-zero.png",
+    "published": "projects/quarter-car-suspension/figures/Q2-polr-zero.png",
+    "sha256": "280ff2a00beaebe36e8e4eb7da9d13a7eba8a0f653c4bd5e3594933004343db6"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q2-response.png",
+    "published": "projects/quarter-car-suspension/figures/Q2-response.png",
+    "sha256": "e2fa3f2b590963592f77d179dffea18c4d0b25200da92657d701b3287c393aad"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q3b.png",
+    "published": "projects/quarter-car-suspension/figures/Q3b.png",
+    "sha256": "0047fc839321d7361470c6d6209d0d68e7c2eb30f36da785c7f0f9b018dd413c"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q3c.png",
+    "published": "projects/quarter-car-suspension/figures/Q3c.png",
+    "sha256": "74e8b62edfd93a27d83ca31d0fca2eb004101f0e64bf59ecc5084265a6c93d9d"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q3d.png",
+    "published": "projects/quarter-car-suspension/figures/Q3d.png",
+    "sha256": "ca39a2c6f74587325e7ccc32e4e7e03f566503fab3c32037ea9360af3c94dc8f"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q4.png",
+    "published": "projects/quarter-car-suspension/figures/Q4.png",
+    "sha256": "8373146a38369180a50971f3f0fbc1a68731cddf12d7515409ccc6cf2a5bdb1a"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q5a.png",
+    "published": "projects/quarter-car-suspension/figures/Q5a.png",
+    "sha256": "04924b11e82e32dbdb9a4fe201466d1a6c5d4ada41039c192e5d90a16fce69f3"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q5b.png",
+    "published": "projects/quarter-car-suspension/figures/Q5b.png",
+    "sha256": "8ea9ddfd999ecde9b683a55c596382e05e6fb59d36b3db16e0be910831b81de2"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\Q5c.png",
+    "published": "projects/quarter-car-suspension/figures/Q5c.png",
+    "sha256": "b01554eeb95fc123c9c2ca36c387784de48c85d0b194762bcaece0307ecd2bfe"
+  },
+  {
+    "source": "project\\my_asnwer\\project-control\\photo\\طط.tex",
+    "published": "projects/quarter-car-suspension/report-source/report.tex",
+    "sha256": "09f9310aa28fe159e44863189ee17f91942a61d8d01d026837e6d159637377b3"
+  }
+]
